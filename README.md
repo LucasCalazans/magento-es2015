@@ -7,7 +7,7 @@ This module provides you to use ECMAScript 2015+ on your Magento transpaling wit
 Execute on your Magento root path
 
 ```
-git clone https://github.com/LucasCalazans/magento-es2015.git app/code/LucasCalazans/EcmaScript
-cd app/code/LucasCalazans/EcmaScript/view/frontend/web
+composer require lucas-calazans/magento2-ecma-script
+cd vendor/lucas-calazans/module-ecma-script/view/frontend/web
 npm i
 ```
